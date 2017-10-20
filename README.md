@@ -1,7 +1,7 @@
 # 2D-Puzzle-Platformer
 This game is a prototype and is not complete. You control a white and black square. Your goal is to move the
 squares through an obstacle course and have the two squares meet in the middle. The catch? You control both
-squares at the same time and the movements of the squares are mirrored. 
+squares at the same time and the movements of the squares are mirrored. See 2DPuzzlePlatformer.gif.
 <br />
 <br />Controls
 <br />Up arrow - Jump
